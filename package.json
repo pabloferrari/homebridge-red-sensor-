@@ -1,0 +1,19 @@
+{
+    "name": "homebridge-red-sensor",
+    "version": "1.0.0",
+    "description": "A Homebridge plugin for a Red-Sensor",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "homebridge-plugin"
+    ],
+    "author": "Tu Nombre",
+    "license": "ISC",
+    "dependencies": {},
+    "engines": {
+        "homebridge": ">=0.4.50",
+        "node": ">=12.0.0"
+    }
+}
